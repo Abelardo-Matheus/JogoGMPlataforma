@@ -1,12 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"Spr_inimigo","path":"sprites/Spr_inimigo/Spr_inimigo.yy",},"order":4,},
     {"id":{"name":"Spr_terra","path":"sprites/Spr_terra/Spr_terra.yy",},"order":2,},
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},"order":15,},
     {"id":{"name":"Obj_terra","path":"objects/Obj_terra/Obj_terra.yy",},"order":1,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":2,},
     {"id":{"name":"Spr_grama","path":"sprites/Spr_grama/Spr_grama.yy",},"order":1,},
+    {"id":{"name":"Obj_terraalta","path":"objects/Obj_terraalta/Obj_terraalta.yy",},"order":4,},
     {"id":{"name":"Spr_fundo","path":"sprites/Spr_fundo/Spr_fundo.yy",},"order":0,},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":3,},
+    {"id":{"name":"Obj_inimigo","path":"objects/Obj_inimigo/Obj_inimigo.yy",},"order":3,},
+    {"id":{"name":"Spr_terraalta","path":"sprites/Spr_terraalta/Spr_terraalta.yy",},"order":5,},
     {"id":{"name":"Obj_grama","path":"objects/Obj_grama/Obj_grama.yy",},"order":0,},
     {"id":{"name":"LvL_1","path":"rooms/LvL_1/LvL_1.yy",},"order":0,},
   ],
